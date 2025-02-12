@@ -1,0 +1,9 @@
+ista[0].name="Juan";
+    lista[0].old=15;
+    lista[0].height=1.73;
+    lista[1].name="Manuel";
+    lista[1].old=20;
+    lista[1].height=1.5;
+    lista[2].name="Miguel";
+    lista[2].old=22;
+    lista[2].height=1.60;

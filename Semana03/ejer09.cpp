@@ -2,6 +2,8 @@
 #include<cmath>
 using namespace std; 
 
+int fiis;
+
 void potencia(int m,int n,int &po){
     po=pow(m,n);
 }
