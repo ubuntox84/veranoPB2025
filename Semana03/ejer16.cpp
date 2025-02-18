@@ -12,10 +12,12 @@ void mostrar(person p){
 int main(){
     person lista[5]; 
     for(person &p: lista){        
-        cout<<"ingresar datos";
+        cout<<"ingresar Nombre:";
         getline(cin,p.name);
+        cout<<"ingresar Edad:";
         cin>>p.old;
         cin.ignore();
+        cout<<"ingresar Altura:";
         cin>>p.height;
         cin.ignore();
         
